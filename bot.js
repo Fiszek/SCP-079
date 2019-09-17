@@ -1,9 +1,9 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-bot.on('ready', () =>{
+bot.on('ready', () => {
   console.log('Bot jest online!');
-})
+});
 
 bot.login(token);
 
