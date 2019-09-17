@@ -7,4 +7,4 @@ bot.on('ready', () =>{
 
 bot.login(token);
 
-client.login(process.env.NjIzNTc4MzEyMTM2MTk2MTI2.XYEe3Q.TarYcbqj7VrOuRnVyXK_OzLzluI);
+client.login(process.env.BOT_TOKEN);
